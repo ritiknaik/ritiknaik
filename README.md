@@ -69,7 +69,8 @@ Hi, I'm Ritik 😄, a pre-final year CSE student at College of Engineering, Pune
 - 🔭 I’m currently working on : Operating Systems and Data Science
 - 🌱 I’m currently learning : Blockchain
 - 💬 Ask me about Deep Learning, Python and C
-    
+
+To know more about me, check out my <a href="https://614b09c6405d3a9b7755e998--portfolio-of-ritiknaik.netlify.app/">Website</a>
     
 ## Stats
 
