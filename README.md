@@ -23,7 +23,7 @@ Hi, I'm Ritik 😄, a pre-final year CSE student at College of Engineering, Pune
     </br>
     <li>Strong understanding of Data Structures and Algorithms</li> 
     <li>Acquired knowledge in Data Science, Deep Learning and MLOps by doing projects and certifications </li> 
-    <li>Gained decent Web Development experience by working upon some perosnal projects</li>
+    <li>Gained decent Web Development experience by working upon some personal projects</li>
     <li>Actively learning about Blockchain technology, it fascinates me</li>
     <li>A team player who can work under pressure and is always up for a challenge</li>
 </ul> 
