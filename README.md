@@ -74,6 +74,8 @@ To know more about me, check out my <a href="https://614b09c6405d3a9b7755e998--p
     
 ## Stats
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ritiknaik.ritiknaik)
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
