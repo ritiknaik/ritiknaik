@@ -36,7 +36,7 @@ Hi, I'm Ritik 😄, a pre-final year CSE student at College of Engineering, Pune
 ## Connect with me:
 <p align="left" > 
 <a href="https://www.linkedin.com/in/ritik-naik-a207551b2/" target="_blank" rel="noreferrer"  > <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"" alt="nextjs" height="30" style="margin-right: 200px;"/> </a>
-<a target="_blank" href="mailto:ritiknaik23@gmail.com"><img align="left" alt="tanmay | Email" width="60px" height="30" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a target="_blank" href="mailto:ritiknaik23@gmail.com"><img align="left" alt="ritik | Email" width="60px" height="30" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 </br>
 
