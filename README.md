@@ -80,11 +80,11 @@ To know more about me, check out my
 ## Stats
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ritiknaik.ritiknaik)
-
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Ritik's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ritiknaik&show_icons=true&hide_border=true" />
+  <img align="left" alt="Ritik's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ritiknaik&show_icons=true&theme=radical" />
 
 </details>
 
