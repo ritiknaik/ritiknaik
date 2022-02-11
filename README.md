@@ -91,7 +91,7 @@ To know more about me, check out my
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Ritik's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritiknaik" />
+<img align="left" alt="Ritik's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritiknaik&layout=compact&theme=radical" />
 
 </details>
 
