@@ -46,7 +46,7 @@ Hi, I'm Ritik 😄, a pre-final year CSE student at College of Engineering, Pune
 <code> <a href="https://www.python.org" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"  /> </a> </code>
 <code> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" /> </a> </code> 
 <code> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/C%2B%2B-4C038C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" /> </a> </code>
-<code> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" > <img src=https://img.shields.io/badge/JavaScript-00146E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /> </a> </code>
+<code> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/JavaScript-00146E?style=for-the-badge&logo=javascript" alt="javascript" /> </a> </code>
 <code> <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="linux" /> </a> </code>
  
 <code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </a> </code> 
