@@ -19,7 +19,6 @@ Hi, I'm Ritik 😄, a pre-final year CSE student at College of Engineering, Pune
 
 <img src="https://github.com/TanmayNikam/TanmayNikam/blob/main/images/dev3.gif" align ="right" width="55%">
 <ul align="left">
-    </br>
     <li>Strong understanding of Data Structures and Algorithms</li> 
     <li>Acquired knowledge in Data Science, Deep Learning and MLOps by doing projects and certifications </li> 
     <li>Gained decent Web Development experience by working upon some personal projects</li>
@@ -29,9 +28,6 @@ Hi, I'm Ritik 😄, a pre-final year CSE student at College of Engineering, Pune
 </ul> 
 
 <br>
-
-<br>
-
 
 ## Connect with me:
 <p align="left" > 
