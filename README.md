@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Ritik 😄, a final year CSE student at College of Engineering, Pune (COEP)
+Hi, I'm Ritik 😄, a pre-final year CSE student at College of Engineering, Pune (COEP)
 
 
-<img src="https://github.com/TanmayNikam/TanmayNikam/blob/main/images/dev3.gif" align ="right" width="50%">
-
+<img src="https://github.com/TanmayNikam/TanmayNikam/blob/main/images/dev3.gif" align ="right" width="55%">
 <ul align="left">
     </br>
     <li>Strong understanding of Data Structures and Algorithms</li> 
     <li>Acquired knowledge in Data Science, Deep Learning and MLOps by doing projects and certifications </li> 
     <li>Gained decent Web Development experience by working upon some personal projects</li>
+    <li>Obtained knowledge of Computer Networks and Operating Systems by developing projects</li>
     <li>Actively learning about Blockchain technology, it fascinates me</li>
     <li>A team player who can work under pressure and is always up for a challenge</li>
 </ul> 
