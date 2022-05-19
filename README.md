@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Ritik 😄, a pre-final year CSE student at College of Engineering, Pune (COEP)
+Hi, I'm Ritik 😄, a final year CSE student at College of Engineering, Pune (COEP)
 
 
 <img src="https://github.com/TanmayNikam/TanmayNikam/blob/main/images/dev3.gif" align ="right" width="50%">
@@ -69,8 +69,8 @@ Hi, I'm Ritik 😄, a pre-final year CSE student at College of Engineering, Pune
 </br>
 
 ## About Me:
-- 🔭 I’m currently working on : Operating Systems and Data Science
-- 🌱 I’m currently learning : Blockchain
+- 🔭 I’m currently working on : Data Analysis
+- 🌱 I’m currently learning : Distributed Systems
 - 💬 Ask me about Deep Learning, Python and C
 
 To know more about me, check out my 
