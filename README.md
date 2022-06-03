@@ -66,8 +66,8 @@ Hi, I'm Ritik 😄, a pre-final year CSE student at College of Engineering, Pune
 </br>
 
 ## About Me:
-- 🔭 I’m currently working on : Data Analysis
-- 🌱 I’m currently learning : Distributed Systems
+- 🔭 I’m currently working on : Real Time Data Analysis
+- 🌱 I’m currently learning : Blockchain
 - 💬 Ask me about Deep Learning, Python and C
 
 To know more about me, check out my 
