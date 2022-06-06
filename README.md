@@ -58,7 +58,7 @@ Hi, I'm Ritik 😄, a pre-final year CSE student at College of Engineering, Pune
 <code> <a href="https://cloud.google.com" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=yellow" alt="linux" height="30"/> </a> </code>
 <code> <a href="https://www.linux.org/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" /> </a> </code>
 <code> <a href="https://git-scm.com/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a> </code> 
-<code> <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="linux" /> </a> </code>
+<code> <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop" /> </a> </code>
 
 <!-- <code> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a> </code> -->
 <!-- <code> <a href="https://expressjs.com" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" /> </a> </code> -->
