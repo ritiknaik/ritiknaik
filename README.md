@@ -45,6 +45,7 @@ Hi, I'm Ritik 😄, a pre-final year CSE student at College of Engineering, Pune
 <code> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/JavaScript-00146E?style=for-the-badge&logo=javascript" alt="javascript" /> </a> </code>
 <code> <a href="https://soliditylang.org/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="cplusplus" /> </a> </code>
 <code> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a> </code>
+<code> <a href="https://www.qt.io/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" /> </a> </code>
 
 <code> <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="linux" /> </a> </code> 
 <code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </a> </code> 
