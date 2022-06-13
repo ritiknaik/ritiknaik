@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Ritik 😄, a final year CSE student at College of Engineering, Pune (COEP)
+Hi, I'm Ritik 😄, a pre-final year CSE student at College of Engineering, Pune (COEP)
 
 
 <img src="https://github.com/TanmayNikam/TanmayNikam/blob/main/images/dev3.gif" align ="right" width="55%">
