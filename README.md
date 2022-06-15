@@ -47,19 +47,19 @@ Hi, I'm Ritik 😄, a pre-final year CSE student at College of Engineering, Pune
 <code> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> </a> </code>
 <code> <a href="https://www.qt.io/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" /> </a> </code>
 
-<code> <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="linux" /> </a> </code> 
 <code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </a> </code> 
 <code> <a href="https://nodejs.org" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" /> </a> </code>
 <code> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/MongoDB-3ECC06?style=for-the-badge&logo=mongodb&logoColor=black" alt="mongodb" /> </a> </code> 
 <code> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a> </code>
 <code> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a> </code>
+<code> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a> </code>
 
+<code> <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="linux" /> </a> </code> 
 <code> <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/> </a> </code>
 <code> <a href="https://cloud.google.com" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=yellow" alt="linux" height="30"/> </a> </code>
 <code> <a href="https://www.linux.org/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" /> </a> </code>
 <code> <a href="https://git-scm.com/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a> </code> 
 <code> <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop" /> </a> </code>
-<code> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a> </code>
 
 <!-- <code> <a href="https://expressjs.com" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" /> </a> </code> -->
 <!-- <code> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /> </a> </code> -->
