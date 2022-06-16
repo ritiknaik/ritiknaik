@@ -73,7 +73,7 @@ Hi, I'm Ritik 😄, a pre-final year CSE student at College of Engineering, Pune
 - 💬 Ask me about Deep Learning, Python and C
 
 To know more about me, check out my 
-<code> <a href="https://61fbde32f41871a4ca572c45--portfolio-of-ritiknaik.netlify.app/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/website-150469?style=plastic" alt="Website" height="20"/> </a> </code>
+<code> <a href="https://illustrious-ritiknaik-portfolio.netlify.app/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/website-150469?style=plastic" alt="Website" height="20"/> </a> </code>
 
 
 ## Stats
