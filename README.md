@@ -32,16 +32,16 @@ Hi, I'm Ritik 😄, a final year CSE undergrad at College of Engineering, Pune (
 ## Connect with me:
 <p align="left" > 
 <a href="https://www.linkedin.com/in/ritik-naik-a207551b2/" target="_blank" rel="noreferrer"  > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nextjs" height="30" style="margin-right: 200px;"/> </a>
-<a target="_blank" href="mailto:ritiknaik23@gmail.com"><img align="left" alt="ritik | Email"  height="30" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a target="_blank" href="mailto:ritiknaik23@gmail.com"><img align="left" alt="ritik | Email"  height="30" src="https://img.shields.io/badge/-Gmail-BB001B?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 </br>
 
 ## Languages and Tools: ##  
 
 <p align="left>
-<code> <a href="https://www.python.org" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"  /> </a> </code>
 <code> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" /> </a> </code> 
-<code> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/C%2B%2B-4C038C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" /> </a> </code>
+<code> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/C%2B%2B-cyan?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" /> </a> </code>
+<code> <a href="https://www.python.org" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"  /> </a> </code>
 <code> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/JavaScript-00146E?style=for-the-badge&logo=javascript" alt="javascript" /> </a> </code>
 <code> <a href="https://soliditylang.org/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="cplusplus" /> </a> </code>
 <code> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> </a> </code>
