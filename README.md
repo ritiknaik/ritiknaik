@@ -39,6 +39,7 @@ Hi, I am Ritik 😄, a final year CSE undergrad at College of Engineering, Pune 
 ## Languages and Tools: ##  
 
 <p align="left>
+
 <code> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" /> </a> </code> 
 <code> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/C%2B%2B-cyan?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" /> </a> </code>
 <code> <a href="https://www.python.org" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"  /> </a> </code>
