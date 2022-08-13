@@ -73,7 +73,7 @@ Hi, I am Ritik 😄, a final year CSE undergrad at College of Engineering, Pune 
 - 🔭 I’m currently working on : Data Science and Artificial Intelligence
 - :writing_hand: I'm currently practicing : Competitive Programming
 - 🌱 I’m currently learning : Blockchain
-- 💬 Ask me about Deep Learning, Python and C
+- 💬 Ask me about Deep Learning, Python, C and C++
 
 To know more about me, check out my 
 <code> <a href="https://illustrious-ritiknaik-portfolio.netlify.app/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/website-010014?style=plastic" alt="Website" height="20"/> </a> </code>
