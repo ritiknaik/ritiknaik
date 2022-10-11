@@ -53,7 +53,6 @@ Hi, I am Ritik 😄, a final year CSE undergrad at College of Engineering, Pune 
 <code> <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="conda" /> </a> </code>
 <code> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a> </code>
 <code> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a> </code>
-<code> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a> </code>
 <code> <a href="https://www.qt.io/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" /> </a> </code>
 <code> <a href="https://www.hub.docker.com/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> </a> </code>
 
@@ -64,7 +63,8 @@ Hi, I am Ritik 😄, a final year CSE undergrad at College of Engineering, Pune 
 <code> <a href="https://git-scm.com/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a> </code> 
 <code> <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop" /> </a> </code>
 
-<!-- <code> <a href="https://expressjs.com" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" /> </a> </code> -->
+<!-- <code> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a> </code>
+<code> <a href="https://expressjs.com" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" /> </a> </code> -->
 <!-- <code> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /> </a> </code> -->
 </p>
    
