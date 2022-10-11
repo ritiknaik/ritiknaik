@@ -55,6 +55,7 @@ Hi, I am Ritik 😄, a final year CSE undergrad at College of Engineering, Pune 
 <code> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a> </code>
 <code> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a> </code>
 <code> <a href="https://www.qt.io/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" /> </a> </code>
+<code> <a href="https://www.hub.docker.com/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> </a> </code>
 
 <code> <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="linux" /> </a> </code> 
 <code> <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/> </a> </code>
