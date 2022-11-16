@@ -50,11 +50,11 @@ Hi, I am Ritik 😄, a final year CSE undergrad at College of Engineering, Pune 
 
 <code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </a> </code> 
 <code> <a href="https://nodejs.org" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" /> </a> </code>
-<code> <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="conda" /> </a> </code>
 <code> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a> </code>
 <code> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a> </code>
 <code> <a href="https://www.qt.io/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" /> </a> </code>
 <code> <a href="https://www.hub.docker.com/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> </a> </code>
+<code> <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="jenkins" /> </a> </code>
 
 <code> <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="linux" /> </a> </code> 
 <code> <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/> </a> </code>
