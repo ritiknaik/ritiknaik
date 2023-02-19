@@ -24,7 +24,7 @@ Hi, I am Ritik 😄, a final year CSE undergrad at College of Engineering, Pune 
     <li>Gained decent Web Development experience by working upon some personal projects</li>
     <li>Obtained knowledge of Computer Networks and Operating Systems by developing projects</li>
     <li>Actively learning about Blockchain technology, it fascinates me!</li>
-    <li>A team player who can work under pressure and is always up for a challenge</li>
+    <li>A team player who can work under pressure and is always up for challenges</li>
 </ul> 
 
 <br>
