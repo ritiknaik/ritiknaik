@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hi, I am Ritik 😄, a final year CSE undergrad at College of Engineering, Pune (COEP)
 
 
-<img src="https://github.com/TanmayNikam/TanmayNikam/blob/main/images/dev3.gif" align ="right" width="50%">
+<img src="https://github.com/TanmayNikam/TanmayNikam/blob/main/images/dev3.gif" align ="right" width="45%">
 <ul align="left" margin=0>
     <li>Strong understanding of Data Structures and Algorithms</li> 
     <li>Acquired knowledge in Data Science, Deep Learning, GANs and MLOps by doing projects and certifications </li> 
