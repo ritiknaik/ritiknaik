@@ -70,9 +70,9 @@ Hi, I am Ritik 😄, a Software Engineer at Wells Fargo
 </br>
 
 ## About Me:
-- 🔭 I’m currently working on : Data Science and Artificial Intelligence
+- 🔭 I’m currently working on : Time-series Data
 - :writing_hand: I'm currently practicing : Competitive Programming
-- 🌱 I’m currently learning : Docker, Cryptography
+- 🌱 I’m currently learning : AI in Neuroscience
 - 💬 Ask me about Deep Learning, Python, C and C++ 
 
 To know more about me, check out my 
