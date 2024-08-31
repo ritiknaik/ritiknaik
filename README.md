@@ -23,7 +23,7 @@ Hi, I am Ritik 😄, a Software Engineer at Wells Fargo
     <li>Acquired knowledge in Data Science, Deep Learning, GANs and MLOps by doing projects and certifications </li> 
     <li>Gained decent Web Development experience by working upon some personal projects</li>
     <li>Obtained knowledge of Computer Networks and Operating Systems by developing projects</li>
-    <li>Actively learning about Blockchain technology, it fascinates me!</li>
+    <li>Actively learning about AI in Biomedical technology, it fascinates me!</li>
     <li>A team player who can work under pressure and is always up for challenges</li>
 </ul> 
 
