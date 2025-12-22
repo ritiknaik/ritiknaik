@@ -18,14 +18,28 @@ Hi, I am Ritik 😄, a Software Engineer at Wells Fargo
 
 
 <img src="https://github.com/TanmayNikam/TanmayNikam/blob/main/images/dev3.gif" align ="right" width="45%">
+
+### Systems for AI | Investment Banking Technology | NeuroAI Researcher
+
+Currently, I work in IB Technology at Wells Fargo to support the business with large-scale data pipelines, and also lead a team of six software engineers in the greenfield development of a Critical Data Management System. 
+
+Additionally, my interests lie at the intersection of **Systems** and **Artificial Intelligence**.
+
+My focus is on optimizing LLM inference, architecting distributed data pipelines, and decoding cognitive processes using Generative AI.
+
 <ul align="left" margin=0>
-    <li>Strong understanding of Data Structures and Algorithms</li> 
-    <li>Acquired knowledge in Data Science, Deep Learning, GANs and MLOps by doing projects and certifications </li> 
-    <li>Gained decent Web Development experience by working upon some personal projects</li>
-    <li>Obtained knowledge of Computer Networks and Operating Systems by developing projects</li>
-    <li>Actively learning about AI in Biomedical technology, it fascinates me!</li>
-    <li>A team player who can work under pressure and is always up for challenges</li>
+    <li>🚀 <b>LLM Systems Engineering:</b> Working on <b>Prefill-Decode Disaggregation</b> to optimize time-per-output-token (TPOT) and inference time for LLMs.</li>
+    <li>🔭 <b>Researching NeuroAI:</b> Co-authored "MindCeive: Perceiving human imagination using CNN-GRU and GANs" <a href="https://www.sciencedirect.com/science/article/pii/S1746809424011686">[Elsevier]</a></li> 
+    <li>💼 <b>At Wells Fargo:</b> Engineering high-throughput ETL frameworks and leading the development of scalable microservices using <b>Spring boot</b>, <b>Kafka</b> and <b>OpenShift</b></li>
+    <li>🛠️ <b>Core Competency:</b> Strong understanding of <b>DSA</b>, <b>Operating Systems</b>, and <b>Computer Networks</b>.</li>
 </ul> 
+
+<br>
+
+### Apart from technology
+I am an artist who enjoys painting and sketching in my free time. 
+I love music and also play guitar. 
+A cricket enthusiast, but I play carrom, chess, and badminton reasonably well.
 
 <br>
 
@@ -69,11 +83,9 @@ Hi, I am Ritik 😄, a Software Engineer at Wells Fargo
    
 </br>
 
-## About Me:
-- 🔭 I’m currently working on : Time-series Data
-- :writing_hand: I'm currently practicing : Competitive Programming
-- 🌱 I’m currently learning : AI in Neuroscience
-- 💬 Ask me about Deep Learning, Python, C and C++ 
+
+- 🌱 I’m currently learning advanced techniques in Multi-modal LLMs and their serving
+- 💬 Ask me about LLM Systems, Deep Learning, Python, C/C++ Optimization, and NeuroAI
 
 To know more about me, check out my 
 <code> <a href="https://illustrious-ritiknaik-portfolio.netlify.app/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/website-010014?style=plastic" alt="Website" height="20"/> </a> </code>
