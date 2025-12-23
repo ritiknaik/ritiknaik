@@ -63,18 +63,20 @@ A cricket enthusiast, but I play carrom, chess, and badminton reasonably well.
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" /> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a> 
-<a href="https://www.qt.io/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" /> </a> 
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="html5"/> </a> 
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="css3" /> </a> 
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" /> </a> 
 <a href="https://www.hub.docker.com/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> </a> 
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="jenkins" /> </a> 
 
+
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="linux" /> </a> 
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="linux" /> </a> 
 <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=yellow" alt="linux" height="30"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" /> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a> 
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop" /> </a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" /> </a>
 
 <!-- <code><a href="https://getbootstrap.com" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a> </code>
 <code> <a href="https://expressjs.com" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" /> </a> </code> -->
