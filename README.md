@@ -90,7 +90,7 @@ A cricket enthusiast, but I play carrom, chess, and badminton reasonably well.
 - 💬 Ask me about LLM Systems, Deep Learning, Python, C/C++ Optimization, and NeuroAI
 
 To know more about me, check out my 
-<code> <a href="https://illustrious-ritiknaik-portfolio.netlify.app/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/website-010014?style=plastic" alt="Website" height="20"/> </a> </code>
+<a href="https://portfolio-ritiknaik.netlify.app/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/> </a>
 
 
 ## Stats
