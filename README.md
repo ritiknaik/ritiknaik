@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hi, I am Ritik 😄, a Software Engineer at Wells Fargo
 
 
-<img src="https://github.com/TanmayNikam/TanmayNikam/blob/main/images/dev3.gif" align ="right" width="45%">
+<img src="./profile_video_new.gif" align ="right" width="45%">
 
 ### Systems for AI | Investment Banking Technology | NeuroAI Researcher
 
